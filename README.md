@@ -16,4 +16,4 @@ def get_weather(city):
 
 if __name__ == "__main__":
     city = input("Enter city name: ")
-    get_weather
+    get_weather(city)
