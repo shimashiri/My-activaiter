@@ -1,6 +1,6 @@
 # My-activaiter
 Active in the hub gate
-import requests
+import request
 
 def get_weather(city):
     api_key = "https://wttr.in/"
